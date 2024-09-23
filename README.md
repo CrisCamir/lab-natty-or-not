@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criando Mapas Mentais
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto desenvolvido sobre IAs Genereativas com o intuito de praticar as técnicas aprendidas no Curso "Formação Fundamentos de Inteligência Artificial"
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Mapify
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi criado um mapa mental a partir de um documento PDF.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![image](https://github.com/user-attachments/assets/9deb4339-3470-49a6-9b78-a1d81e095188)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Verificamos que a cada dia as IAs se tornaram um grande aliado para desenvolver projetos e nos auxiliar nas tarefas mais simples, como resumir um texto ou até mesmo gerar uma imagem conforme nossas determinações. 
 ```
 
 ### Exemplos e Insigths
